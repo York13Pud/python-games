@@ -6,13 +6,9 @@ Many of the games are recreations of classic games that have been played million
 
 These are my takes on them. Please enjoy.
 
----
-
 ## Instructions
 
 The instructions for running each of the games is contained in the README.md file in each games folder.
-
----
 
 ## List of Games
 
