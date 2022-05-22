@@ -1,6 +1,4 @@
-![Header](https://github.com/York13Pud/York13Pud/blob/2a010a699e7ebf09147e3031bea1879e1a4ed147/assets/images/headers/python-games-header.png)
-
-:video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game:
+![Header](https://github.com/York13Pud/York13Pud/blob/main/assets/images/headers/python-games-header.png)
 
 Hello. This repository has a collection of games that I have built using Python and various libraries.
 
@@ -8,9 +6,13 @@ Many of the games are recreations of classic games that have been played million
 
 These are my takes on them. Please enjoy.
 
+---
+
 ## Instructions
 
 The instructions for running each of the games is contained in the README.md file in each games folder.
+
+---
 
 ## List of Games
 
