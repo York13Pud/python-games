@@ -21,6 +21,12 @@ You will also need to have pip3 (Python package manager) installed to install th
 
 First, clone the repository to a location on your local system.
 
+1. Open a terminal.
+2. Change to the directory where you would like to clone the repository to.
+3. Run the below command to clone the repository:
+   
+4. Run the below command to change to the pong application directory:
+        cd python-games/pong
 
 
 Next, we need to create a virtual environment for the application. This will be used to isolate the application modules, libraries and Python executables from your main Python environment.
